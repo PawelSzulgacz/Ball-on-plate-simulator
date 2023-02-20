@@ -1,0 +1,18 @@
+body
+{
+    background-color: antiquewhite;
+}
+#lewy
+{
+    background-color:blanchedalmond;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+#prawy
+{
+    background-color: antiquewhite;
+    padding-left: 5%;
+    width: 45%;
+    float: left;
+}
